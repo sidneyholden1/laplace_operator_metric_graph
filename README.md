@@ -1,6 +1,7 @@
 # Laplace Operator on Metric Graphs
 
-This repository contains the code used in "A continuum limit for dense spatial networks".
+This repository contains the code used in 
+Holden, S., Vasil, G., "A continuum limit for dense spatial networks".
 
 ---
 
